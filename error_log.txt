@@ -1,0 +1,1 @@
+2018-08-23 06:27:29,889 INFO  /opt/security-system-server/security_system/knowledgeBase/views.py[line:69] get data from redis task 0.00 seconds
